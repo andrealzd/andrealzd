@@ -14,7 +14,7 @@
 
 ---
 
-### ✨ [INITIATING_GREETING] Hello, Future Colleague!
+### ✨ Hello, Future Colleague!
 > **"Turning pixels into passion, and logic into lovable experiences."** I'm Andrea, a **Computer Science** student specializing in bringing delightful and robust applications to life. My journey is about blending elegant code with intuitive design, always eager to learn, build, and share! 🎀
 
 ---
@@ -33,10 +33,10 @@
 ### 🚀 STELLAR PROJECTS & CREATIONS
 
 <div align="center">
-  <a href="https://github.com/andrealzd/PROJECT_NAME_1">
+  <a href="https://github.com/andrealzd/ayka-the-dog">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrealzd&repo=PROJECT_NAME_1&theme=algolia&bg_color=F8F8F2,0D1117&border_color=bd93f9&icon_color=ff79c6&title_color=8be9fd&text_color=f8f8f2" />
   </a>
-  <a href="https://github.com/andrealzd/PROJECT_NAME_2">
+  <a href="https://github.com/andrealzd/the-mountain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrealzd&repo=PROJECT_NAME_2&theme=algolia&bg_color=F8F8F2,0D1117&border_color=bd93f9&icon_color=ff79c6&title_color=8be9fd&text_color=f8f8f2" />
   </a>
 </div>
