@@ -13,7 +13,7 @@ jobs:
       - name: Generate pacman graph
         uses: Platane/snk@v3
         with:
-          github_user_name: SEU_USERNAME_AQUI
+          github_user_name: andrealzd
           outputs: |
             output/pacman-contribution-graph.svg
             output/pacman-contribution-graph-dark.svg?palette=github-dark
