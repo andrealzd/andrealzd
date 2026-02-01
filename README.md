@@ -41,10 +41,10 @@
 
 <div align="center">
   <a href="https://github.com/andrealzd/ayka-the-dog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrealzd&repo=ayka-the-dog&theme=dracula" />
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=andrealzd&repo=ayka-the-dog&theme=dracula](https://github.com/andrealzd/ayka-the-dog)" />
   </a>
   <a href="https://github.com/andrealzd/the-mountain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrealzd&repo=the-mountain&theme=dracula" />
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=andrealzd&repo=the-mountain&theme=dracula](https://github.com/andrealzd/the-mountain)" />
   </a>
 </div>
 
