@@ -101,8 +101,8 @@ Each project focuses on:
 ## 📫 CONTACT
 
 - 💼 GitHub: **@andrealzd**
-- 🔗 LinkedIn: _andrealzd_
-- ✉️ Email: _andrealouzada25@gmail.com_
+- 🔗 LinkedIn: _andrealouzada_
+- ✉️ Email: _andrealibardi25@gmail.com_
 
 ---
 
