@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ DEIA | JUNIOR SOFTWARE ENGINEER 🎮</h1>
+<h1 align="center">🎮 ANDRÉA | JUNIOR SOFTWARE ENGINEER 🎮</h1>
 
 <h3 align="center">
 🚀 Building systems • 🧠 Solving problems • 🎯 Leveling up with every commit
@@ -14,7 +14,7 @@
 
 ## 🧬 PLAYER PROFILE
 
-🧙‍♀️ **Name:** Deia  
+🧙‍♀️ **Name:** Andréa  
 🎯 **Class:** Junior Software Engineer  
 🌍 **Availability:** Open to international opportunities  
 🧠 **Playstyle:** Logical • Analytical • Growth-Driven
@@ -43,7 +43,7 @@
 
 ### 🎮 Main Weapons
 
-- 💻 **Languages:** _(Python | JavaScript | Java | etc.)_
+- 💻 **Languages:** _(Python | JavaScript | TypeScript )_
 - 🧰 **Version Control:** Git, GitHub
 - 🖥️ **IDE:** VS Code
 
@@ -72,12 +72,12 @@ Each project focuses on:
 ## 📊 PLAYER STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrealzd&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrealzd&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealzd&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
