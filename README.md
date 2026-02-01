@@ -104,4 +104,5 @@ $ andrea --fun-facts
 > Codes better with music on 🎧
 > Learning something new every day
 > Motto: progress over perfection
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=andrealzd&color=bd93f9&style=flat-square&label=Profile+Visits+💖" /> <br /> <sub>✨ Made with love & curiosity by Andrea</sub> </div> ```
+```
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=andrealzd&color=bd93f9&style=flat-square&label=Profile+Visits+💖" /> <br /> <sub>✨ Made with love & curiosity by Andrea</sub> </div> 
