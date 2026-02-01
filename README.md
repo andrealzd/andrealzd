@@ -1,4 +1,4 @@
-<h1 align="center">🎮 ANDRÉA | JUNIOR SOFTWARE ENGINEER 🎮</h1>
+<h1 align="center">🎮 ANDRÉA | SOFTWARE ENGINEER 🎮</h1>
 
 <h3 align="center">
 🚀 Building systems • 🧠 Solving problems • 🎯 Leveling up with every commit
