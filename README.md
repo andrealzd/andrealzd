@@ -1,77 +1,111 @@
-<div align="center">
-  
-# 👩‍💻 `digital_architect.andrea`
-**SOFT AESTHETICS // HIGH PERFORMANCE // FUTURE ORIENTED**
+<h1 align="center">⚔️ DEIA | JUNIOR SOFTWARE ENGINEER 🎮</h1>
+
+<h3 align="center">
+🚀 Building systems • 🧠 Solving problems • 🎯 Leveling up with every commit
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/final_year-CS_student-FFD1DC?style=flat-square&labelColor=303030" />
-  <img src="https://img.shields.io/badge/focus-fullstack_dev-B2E2F2?style=flat-square&labelColor=303030" />
-  <img src="https://img.shields.io/badge/vibe-cyber_soft-C3B1E1?style=flat-square&labelColor=303030" />
+  <img src="https://img.shields.io/badge/Role-Junior%20Software%20Engineer-blueviolet"/>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-success"/>
+  <img src="https://img.shields.io/badge/Mindset-Gamer%20Logic%20%26%20Clean%20Code-red"/>
 </p>
 
 ---
 
-### ✨ Hello, world! 
-> I'm **Andrea**, a software engineer in the making who believes that **beautiful code** and **powerful logic** go hand in hand. Currently crafting digital experiences with a touch of pastel néon and a lot of clean architecture.
+## 🧬 PLAYER PROFILE
 
-</div>
+🧙‍♀️ **Name:** Deia  
+🎯 **Class:** Junior Software Engineer  
+🌍 **Availability:** Open to international opportunities  
+🧠 **Playstyle:** Logical • Analytical • Growth-Driven
 
-### 🛠️ The Tech Ecosystem
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,tailwind,html,css,git,github,figma,docker,aws,vite,jest" height="45" />
-</div>
-
----
-
-### 📉 Neural Interface (System Insights)
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=andrealzd&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=B2E2F2&icon_color=FFD1DC&text_color=E0E0E0" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrealzd&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=B2E2F2&text_color=E0E0E0" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com?user=andrealzd&theme=rose_pine&hide_border=true&background=00000000&stroke=FFD1DC&ring=B2E2F2&fire=C3B1E1" width="100%" />
-</div>
+> I approach software engineering like an RPG:  
+> clear goals, evolving skills, and continuous optimization.
 
 ---
 
-### 🕹️ Active Contribution Grid
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph-dark.svg">
-    <img alt="Pacman Activity" src="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
+## 🧠 CORE SKILLS (ATS Optimized)
+
+✔ Software Development  
+✔ Problem Solving  
+✔ Logical Thinking  
+✔ Data Structures (basic)  
+✔ Algorithms (basic)  
+✔ Debugging  
+✔ Version Control (Git)  
+✔ Clean Code  
+✔ Code Readability  
+✔ Continuous Learning
 
 ---
 
-### 🤝 Uplink Channels
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_USER">
-    <img src="https://img.shields.io/badge/LINKEDIN-B2E2F2?style=for-the-badge&logo=linkedin&logoColor=303030" />
-  </a>
-  <a href="https://instagram.com/YOUR_USER">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FFD1DC?style=for-the-badge&logo=instagram&logoColor=303030" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-C3B1E1?style=for-the-badge&logo=gmail&logoColor=303030" />
-  </a>
-</div>
+## 🛠️ TECH STACK
+
+### 🎮 Main Weapons
+
+- 💻 **Languages:** _(Python | JavaScript | Java | etc.)_
+- 🧰 **Version Control:** Git, GitHub
+- 🖥️ **IDE:** VS Code
+
+### 🧪 Support Skills
+
+- Testing mindset
+- Debugging & troubleshooting
+- Documentation & code organization
 
 ---
 
-### 📟 Terminal Diagnostics
-```json
-{
-  "status": "Ready to collaborate",
-  "passion": ["Clean Code", "UI/UX", "System Design"],
-  "currently_learning": "Advanced Cloud Architecture",
-  "daily_driver": "VS Code + Coffee + Lofi"
-}
-```
-<div align="center"> <br /> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dandrealzd%26color%3DB2E2F2%26style%3Dflat-square%26label%3DVIRTUAL_VISITS_💖" /> <br /> <sub><i>Crafted with precision & soft néon by Andrea.</i></sub> </div>
+## 🧪 QUEST LOG (PROJECTS)
+
+🕹️ **Active Quests:** Portfolio expansion  
+Each project focuses on:
+
+- real-world logic
+- maintainable code
+- clear structure
+- practical problem solving
+
+📂 _Check my repositories to see my progress and evolution._
+
+---
+
+## 📊 PLAYER STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧭 CURRENT LEVEL
+
+🎯 Strengthening software engineering fundamentals  
+🧠 Improving problem-solving skills  
+🚀 Building production-ready projects
+
+---
+
+## 🌍 READY FOR NEW QUESTS
+
+✔ Junior Software Engineer roles  
+✔ International opportunities  
+✔ Collaborative teams & open-source projects
+
+---
+
+## 📫 CONTACT
+
+- 💼 GitHub: **@andrealzd**
+- 🔗 LinkedIn: _andrealzd_
+- ✉️ Email: _andrealouzada25@gmail.com_
+
+---
+
+<p align="center">
+  🎮 <i>"Every commit is experience points."</i> 🚀
+</p>
