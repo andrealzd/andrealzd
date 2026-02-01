@@ -1,64 +1,62 @@
-<h2 align="left">Hi 👋! I am Andrea and I'm a software engineer, from Brazil</h2>
-
+# 🚀 Hi, I'm Andrea! | Software Engineer
 <p align="left">
-Computer Science student in the final stage of my degree.  
-Beginner software developer with a strong interest in software development and continuous learning.  
-Currently focused on strengthening my technical foundations, writing clean code, and gaining practical experience through projects.
+  <img src="https://img.shields.io/badge/Status-Final_Year_CS_Student-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Location-Brazil-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Fullstack_Development-orange?style=flat-square">
 </p>
 
-###
+### 💫 About Me
+I am a **Computer Science** student in the final stretch of my degree, driven by the challenge of building scalable and efficient software. My focus is on mastering the fundamentals of **Clean Code** and **Software Architecture** while delivering practical, user-centered solutions.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrealzd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrealzd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+- 🎓 **Education:** Final year CS Student.
+- 💻 **Currently learning:** Advanced Node.js patterns and Cloud Infrastructure.
+- 🎯 **Goals:** Contributing to open-source and landing a challenging role in a tech-driven team.
+- ⚡ **Fun Fact:** I believe that if the code is hard to explain, it's a bad idea.
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-</div>
-
-###
+### 🛠️ Technical Toolbox
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,nodejs,mysql,docker,git,linux" height="50" alt="tech-stack" />
 </div>
 
-###
+---
+
+### 📊 Github Performance
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=andrelzd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=andrelzd&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrealzd&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&title_color=8be9fd&text_color=f8f8f2&icon_color=ff79c6" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrealzd&layout=compact&theme=dracula&hide_border=false&title_color=8be9fd&text_color=f8f8f2" height="170" alt="languages graph" />
 </div>
 
-###
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=andrelzd&theme=dracula&hide_border=false&stroke=ff79c6&ring=8be9fd&fire=ffb86c" height="160" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=andrelzd&theme=dracula&column=3&row=1&margin-w=10" height="160" alt="trophy graph" />
+</div>
+
+---
+
+### 🕹️ Contribution Journey
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph.svg">
-  <img alt="Contribution graph"
-       src="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-###
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to discussing tech, projects, or professional opportunities.
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USER"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
+<a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30"/></a>
+</p>
+
+<p align="center"><b>"Turning coffee into code since day one."</b></p>
