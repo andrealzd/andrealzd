@@ -6,10 +6,10 @@
       <br>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Cupcake.png" width="20" />
       <b>Code, Creativity & Digital Dreams</b>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20%26%20Places/Sparkles.png" width="20" />
       <br>
     </kbd>
   </p>
+
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Final%20Year%20CS%20Student-bd93f9?style=for-the-badge" />
