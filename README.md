@@ -53,9 +53,12 @@ Currently focused on strengthening my technical foundations, writing clean code,
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrelzd/andrelzd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrelzd/andrelzd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andrelzd/andrelzd/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph"
+       src="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
