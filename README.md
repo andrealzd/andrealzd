@@ -1,62 +1,88 @@
-# 🚀 Hi, I'm Andrea! | Software Engineer
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Final_Year_CS_Student-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Location-Brazil-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Fullstack_Development-orange?style=flat-square">
-</p>
+# 🚀 Engineering robust solutions with code.
 
-### 💫 About Me
-I am a **Computer Science** student in the final stretch of my degree, driven by the challenge of building scalable and efficient software. My focus is on mastering the fundamentals of **Clean Code** and **Software Architecture** while delivering practical, user-centered solutions.
+<div align="center">
+  <img align="right" width="180" src="https://i.imgflip.com/65efzo.gif" />
+  
+  <p align="left">
+    <strong>Andrea | Software Engineer</strong><br>
+    🎓 B.S. in Computer Science (Senior Student)<br>
+    📍 Based in Brazil
+  </p>
 
-- 🎓 **Education:** Final year CS Student.
-- 💻 **Currently learning:** Advanced Node.js patterns and Cloud Infrastructure.
-- 🎯 **Goals:** Contributing to open-source and landing a challenging role in a tech-driven team.
-- ⚡ **Fun Fact:** I believe that if the code is hard to explain, it's a bad idea.
-
----
-
-### 🛠️ Technical Toolbox
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,nodejs,mysql,docker,git,linux" height="50" alt="tech-stack" />
+  <p align="left">
+    <a href="https://linkedin.com/in/YOUR_USER"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 📊 Github Performance
+### ⚡ At a Glance
+
+- 🔭 **Current Focus:** Building scalable Fullstack applications and exploring System Design.
+- 🏗️ **Architectural Mindset:** Focused on **Clean Code**, **SOLID** principles, and **DRY** development.
+- 🛠️ **Infrastructure:** Experimenting with Docker containers and CI/CD pipelines.
+- 💬 **Ask me about:** TypeScript, Python automation, or why I love/hate CSS.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Python` `SQL` |
+| **Frontend** | `React.js` `Next.js` `Tailwind CSS` `HTML5/CSS3` |
+| **Backend** | `Node.js` `Express` `PostgreSQL` `Prisma` |
+| **DevOps/Tools** | `Docker` `Git` `Linux` `Vercel` |
+
+---
+
+### 🚀 Highlighted Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/andrealzd/PROJECT_NAME">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrealzd&repo=PROJECT_NAME&theme=dracula" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/andrealzd/ANOTHER_PROJECT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrealzd&repo=ANOTHER_PROJECT&theme=dracula" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Technical Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrealzd&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&title_color=8be9fd&text_color=f8f8f2&icon_color=ff79c6" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrealzd&layout=compact&theme=dracula&hide_border=false&title_color=8be9fd&text_color=f8f8f2" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrealzd&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&title_color=8be9fd" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrealzd&layout=compact&theme=dracula&hide_border=true&title_color=8be9fd" height="180" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=andrelzd&theme=dracula&hide_border=false&stroke=ff79c6&ring=8be9fd&fire=ffb86c" height="160" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=andrelzd&theme=dracula&column=3&row=1&margin-w=10" height="160" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=andrelzd&theme=dracula&hide_border=true&stroke=bd93f9" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app?username=andrelzd&theme=dracula&column=3&row=1&no-bg=true" width="48%" />
 </div>
 
 ---
 
-### 🕹️ Contribution Journey
+### 🕹️ Contribution Heatmap
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph.svg" width="100%">
+  <img alt="Pacman Activity" src="https://raw.githubusercontent.com/andrealzd/andrealzd/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
----
+<br />
 
-### 🤝 Let's Connect!
-
-I'm always open to discussing tech, projects, or professional opportunities.
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USER"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
-<a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30"/></a>
-</p>
-
-<p align="center"><b>"Turning coffee into code since day one."</b></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/github/followers/andrealzd?label=Follow&style=social" />
+</div>
