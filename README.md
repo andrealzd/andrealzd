@@ -1,71 +1,73 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="./assets/banner.png" width="100%">
 </p>
 
-# 👋 Olá, eu sou a Andréa
+<br>
 
-Software Engineer
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-## 👩 Sobre mim
+## 𓂃🪶 Sobre mim
 
-🎓 Formada em Análise e Desenvolvimento de Sistemas (ADS)
+🎓 Análise e Desenvolvimento de Sistemas
 
-💻 Desenvolvedora apaixonada por tecnologia, automação de processos e resolução de problemas.
+💻 Desenvolvedora apaixonada por tecnologia, automação e resolução de problemas.
 
-🐍 Desenvolvendo soluções com Python.
+🐍 Python
 
 🧠 Atualmente estudando Inteligência Artificial e Machine Learning.
 
-🎮 Gamer e fã de animes.
+🎮 Gamer • Anime • Tecnologia
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚨 Foco
+
+- Automação de Processos
+- Desenvolvimento Python
+- SQL & Banco de Dados
+- Inteligência Artificial
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🚀 Atualmente
+# 👾 Tech Stack
 
-- 🤖 Desenvolvendo automações em Python
-- 🌐 Criando aplicações Web
-- 📚 Aprimorando SQL
-- 🧠 Estudando IA
-- 🚀 Construindo projetos pessoais
-
----
-
-## 🛠 Tech Stack
-
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode,linux"/>
 
 </p>
 
----
-
-## 📊 GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andreazld&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreazld&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=andreazld&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
-## 📫 Contato
+# 📫 Contato
+
+<p align="center">
 
 <a href="mailto:andrealibardi25@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/SEULINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://linkedin.com/in/andrealouzada">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *Every bug defeated is one XP earned.*
+
+</p>
